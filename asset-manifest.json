@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4924b56f.css",
+    "main.js": "/static/js/main.17f9a36e.js",
+    "static/media/entrenador.jpg": "/static/media/entrenador.affe1c3e8292a18a9315.jpg",
+    "static/media/Tienda.jpg": "/static/media/Tienda.e6ed1c06c1acf3d32996.jpg",
+    "static/media/bano.jpg": "/static/media/bano.eaafb877be4b37261201.jpg",
+    "static/media/oidos.jpeg": "/static/media/oidos.9e7da4809a966f24eeb2.jpeg",
+    "static/media/tintes.jpg": "/static/media/tintes.b5fdb9c824afb1e180b5.jpg",
+    "static/media/fumigador2.jpg": "/static/media/fumigador2.30bf25f022d13973463a.jpg",
+    "static/media/PERFUME .png": "/static/media/PERFUME .ccb0a114fdab66db831d.png",
+    "static/media/guarderia.jpg": "/static/media/guarderia.5fc4023fe179ad2b681e.jpg",
+    "static/media/dientes.jpg": "/static/media/dientes.43f65e4d445fc77b75c4.jpg",
+    "static/media/services.jpg": "/static/media/services.3e2686d6875a84a97b5f.jpg",
+    "static/media/Deslanado.jpg": "/static/media/Deslanado.ca7e38d80c348762efca.jpg",
+    "static/media/unas.jpg": "/static/media/unas.41c656902f791ca7b6f6.jpg",
+    "static/media/pelados.jpg": "/static/media/pelados.8b804be5753a80c9ebfc.jpg",
+    "static/media/veterinario.jpg": "/static/media/veterinario.d848a3b451207525eff6.jpg",
+    "index.html": "/index.html",
+    "main.4924b56f.css.map": "/static/css/main.4924b56f.css.map",
+    "main.17f9a36e.js.map": "/static/js/main.17f9a36e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4924b56f.css",
+    "static/js/main.17f9a36e.js"
+  ]
+}

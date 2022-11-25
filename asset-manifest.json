@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a3161c10.css",
-    "main.js": "/static/js/main.a4d8700d.js",
+    "main.js": "/static/js/main.f29e3687.js",
     "static/media/pngegg.png": "/static/media/pngegg.c4d58466f7c44fa4c38b.png",
     "static/media/entrenador.jpg": "/static/media/entrenador.affe1c3e8292a18a9315.jpg",
     "static/media/Tienda Invierno.jpg": "/static/media/Tienda Invierno.485fd4868c1fcdc31bee.jpg",
@@ -19,10 +19,10 @@
     "static/media/veterinario.jpg": "/static/media/veterinario.d848a3b451207525eff6.jpg",
     "index.html": "/index.html",
     "main.a3161c10.css.map": "/static/css/main.a3161c10.css.map",
-    "main.a4d8700d.js.map": "/static/js/main.a4d8700d.js.map"
+    "main.f29e3687.js.map": "/static/js/main.f29e3687.js.map"
   },
   "entrypoints": [
     "static/css/main.a3161c10.css",
-    "static/js/main.a4d8700d.js"
+    "static/js/main.f29e3687.js"
   ]
 }
